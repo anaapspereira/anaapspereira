@@ -1,5 +1,13 @@
 ### Hi, I'm Ana👋
 
+💻 Current job: Data Analyst
+
+❤️ Passions: Nature, Science, Paiting, Music, Photography
+
+🐶 Dog mom: Nala and Brownie
+
+📖 Currently learning: Piano & Data Science with Python
+
 
 <!--
 **anaapspereira/anaapspereira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
