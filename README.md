@@ -2,7 +2,7 @@
 
 💻 Current job: Data Analyst
 
-❤️ Passions: Nature, Science, Paiting, Music, Photography
+❤️ Passions: Nature, Science, DIY, Arts 
 
 🐶 Dog mom: Nala and Brownie
 
