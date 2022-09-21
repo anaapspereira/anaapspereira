@@ -1,12 +1,12 @@
 ### Hi, I'm Ana👋
 
-💻 Current job: Data Analyst
+💻 Current job: Postdoctoral Researcher at Instituto Nacional de Saúde Doutor Ricardo Jorge
 
-❤️ Passions: Nature, Science, DIY, Arts 
+❤️ Passions: Nature, Science, Technology, DIY, Arts 
 
 🐶 Dog mom: Nala and Brownie
 
-📖 Currently learning: Piano & Data Science with Python
+📖 Currently learning: Piano and Data Science with Python
 
 
 <!--
