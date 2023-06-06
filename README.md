@@ -8,6 +8,8 @@
 
 📖 Currently learning: Piano and Data Science with Python
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anaapspereira&show_icons=true&theme=radical)
+
 
 <!--
 **anaapspereira/anaapspereira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
