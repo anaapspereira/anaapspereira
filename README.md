@@ -3,11 +3,7 @@
 
 💻 Current job: Postdoctoral Researcher at Instituto Nacional de Saúde Doutor Ricardo Jorge
 
-❤️ Passions: Nature, Science, Technology, DIY, Arts 
-
-🐶 Dog mom: Nala and Brownie
-
-📖 Currently learning: Piano and Data Science with Python
+❤️ Passions: Learning, Nature, Science, Technology, DIY, Arts 
 
 👩‍💻 Current working on [ngest](https://github.com/hmartiniano/ngest)
 
