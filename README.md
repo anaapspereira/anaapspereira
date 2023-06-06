@@ -1,6 +1,6 @@
 <div align="center">
 
-##Hi, I'm Ana👋
+## Hi, I'm Ana👋
 
 💻 Current job: Postdoctoral Researcher at Instituto Nacional de Saúde Doutor Ricardo Jorge
 
