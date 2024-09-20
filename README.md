@@ -1,11 +1,7 @@
 
 ## Hi, I'm Ana👋
 
-💻 Current job: Postdoctoral Researcher at Instituto Nacional de Saúde Doutor Ricardo Jorge
-
-❤️ Passions: Learning, Nature, Science, Technology, DIY, Arts 
-
-👩‍💻 Current working on [ngest](https://github.com/hmartiniano/ngest)
+👩‍💻 Current working on the project "Simplification of HIV Tropism Tests: An AI-based Method for Predicting Virus Tropism from Routine Sequencing Data"
 
 <div align="center">
 
