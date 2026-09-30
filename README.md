@@ -1,38 +1,45 @@
 ## Hi, I'm Ana 👋
 
-### Bioinformatics • Data Science • Infectious Disease Genomics
+### Bioinformatics • Artificial Intelligence • Knowledge Graphs • Pathogen Research
 
-I'm a bioinformatics and health data science researcher with a PhD in Ageing and Chronic Diseases.  
-My work combines **computational biology**, **machine learning**, and **reproducible data workflows** to study clinically relevant problems in **infectious diseases**, with a strong focus on **HIV-1** and **malaria**.
+I'm a bioinformatics and data science researcher working at the intersection of **computational biology**, **artificial intelligence**, and **biomedical data integration**.
 
-- 🔬 Researcher at **ICVS, School of Medicine, University of Minho**
-- 🧬 Currently working on **AI-based prediction of HIV-1 tropism from routine sequencing data**
-- 🦠 Contributing to **Malaria therapeutic failure prediction using machine learning**
-- 🛠️ Building tools for **sequence analysis**, **biomedical knowledge graphs**, and **data integration**
-- 📚 Interested in **translational bioinformatics**, **infectious disease genomics**, and **health data science**
+I am currently an **Assistant Researcher at the Centre of Biological Engineering (CEB), University of Minho**, within the **Bioinformatics and Systems Biology (BiSBi)** research group.
+
+My research focuses on developing and applying **machine learning**, **generative AI**, and **knowledge graph approaches** to study pathogens, infectious diseases, treatment response, and antimicrobial strategies.
+
+- 🧬 Working with **biological and clinical data integration**
+- 🤖 Developing **predictive and generative AI approaches** for pathogen-related research
+- 🕸️ Building and applying **biomedical knowledge graphs**
+- 🦠 Interested in **pathogen genomics**, **phage–host interactions**, and **antimicrobial discovery**
+- 🛠️ Developing reproducible tools and pipelines for **bioinformatics**, **sequence analysis**, and **biomedical data science**
+- 🔎 Interested in **explainable AI**, **uncertainty-aware prediction**, and **reproducible computational research**
 
 ---
 
 ## Research Interests
 
-- HIV-1 evolution, diversity, and drug resistance
-- Machine learning for infectious disease genomics
+- Artificial intelligence for pathogen and infectious disease research
 - Biomedical knowledge graphs and graph-based learning
-- Bioinformatics pipelines and reproducible research
-- Health data analysis and translational computational biology
+- Machine learning and generative AI in bioinformatics
+- Pathogen genomics and sequence analysis
+- HIV-1 evolution, diversity, and drug resistance
+- Phage–host interaction prediction
+- Computational antimicrobial discovery
+- Reproducible bioinformatics workflows and data integration
 
 ---
 
 ## Featured Projects
 
-### [MAL-Predict](https://github.com/PEvoGen-IT/MAL-Predict)
-A machine learning pipeline for **patient-level malaria therapeutic failure prediction**.
-
 ### [PyHIV](https://github.com/anaapspereira/pyhiv)
-Python toolkit for **local HIV-1 sequence alignment, subtyping, and gene splitting**.
+Python toolkit for **HIV-1 sequence alignment, subtyping, and gene splitting**.
 
 ### [AIV-Tropism](https://github.com/PEvoGen-IT/AIV-Tropism)
-Reproducible pipeline for **HIV coreceptor tropism prediction**, integrating preprocessing, encoding strategies, and machine learning/deep learning models.
+Reproducible pipeline for **HIV-1 coreceptor tropism prediction**, integrating sequence preprocessing, encoding strategies, and machine learning/deep learning models.
+
+### [MAL-Predict](https://github.com/PEvoGen-IT/MAL-Predict)
+Machine learning pipeline for **patient-level malaria therapeutic failure prediction**.
 
 ### [ngest](https://github.com/hmartiniano/ngest)
 Scalable **Snakemake pipeline** for automated and standardized **biomedical knowledge graph construction**.
@@ -41,20 +48,23 @@ Scalable **Snakemake pipeline** for automated and standardized **biomedical know
 
 ## Tech & Tools
 
-**Languages & Data**
+**Programming & Data**
 - Python
 - SQL / MySQL
 - Git / GitHub
-- ETL workflows
+- ETL & data integration
+- Snakemake
 - Power BI
 
-**Bioinformatics & ML**
+**Bioinformatics & AI**
 - Machine Learning
+- Deep Learning
+- Generative AI
 - Biomedical Knowledge Graphs
+- Graph-based methods
 - Sequence Analysis
 - Drug Resistance Analysis
-- Phylogeny
-- Snakemake
+- Phylogenetics
 
 ---
 
@@ -68,7 +78,7 @@ Scalable **Snakemake pipeline** for automated and standardized **biomedical know
 
 ## Teaching & Outreach
 
-I also enjoy contributing to **teaching, mentoring, and science communication**, especially in bioinformatics, Python, and digital tools for health research.
+I also contribute to **teaching, mentoring, and science communication**, particularly in **bioinformatics, Python, artificial intelligence, and computational approaches for biomedical research**.
 
 ---
 
